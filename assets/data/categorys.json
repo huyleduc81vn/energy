@@ -1,0 +1,43 @@
+[{
+        "id": "cat001",
+        "data": {
+            "name": "Tivi"
+        }
+    },
+    {
+        "id": "cat002",
+        "data": {
+            "name": "Tủ Lạnh"
+        }
+    },
+    {
+        "id": "cat003",
+        "data": {
+            "name": "Máy giặt"
+        }
+    },
+    {
+        "id": "cat004",
+        "data": {
+            "name": "Điện thoại"
+        }
+    },
+    {
+        "id": "cat005",
+        "data": {
+            "name": "Máy lạnh"
+        }
+    },
+    {
+        "id": "cat006",
+        "data": {
+            "name": "Laptop"
+        }
+    },
+    {
+        "id": "cat007",
+        "data": {
+            "name": "Điện gia dụng"
+        }
+    }
+]

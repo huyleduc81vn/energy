@@ -1,0 +1,1526 @@
+[{
+        "id": "200001",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 14,
+            "payment": 179500000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 179500000,
+            "bill_code": "0904A25",
+            "id_supplier": "sup001"
+        }
+    },
+    {
+        "id": "200002",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 13,
+            "payment": 179500000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 179500000,
+            "bill_code": "0804B35",
+            "id_supplier": "sup001"
+        }
+    },
+    {
+        "id": "200003",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 12,
+            "payment": 179500000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 179500000,
+            "bill_code": "0704C35",
+            "id_supplier": "sup001"
+        }
+    },
+    {
+        "id": "200004",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 11,
+            "payment": 179500000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 179500000,
+            "bill_code": "0604D25",
+            "id_supplier": "sup001"
+        }
+    },
+    {
+        "id": "200005",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 10,
+            "payment": 268130000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 268130000,
+            "bill_code": "0504E25",
+            "id_supplier": "sup001"
+        }
+    },
+    {
+        "id": "200006",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 9,
+            "payment": 7300000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 7300000,
+            "bill_code": "0404R64",
+            "id_supplier": "sup002"
+        }
+    },
+    {
+        "id": "200007",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 8,
+            "payment": 8700000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 8700000,
+            "bill_code": "0304FD2",
+            "id_supplier": "sup002"
+        }
+    },
+    {
+        "id": "200008",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 7,
+            "payment": 148000000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 148000000,
+            "bill_code": "0204ED5",
+            "id_supplier": "sup001"
+        }
+    },
+    {
+        "id": "200009",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 6,
+            "payment": 83250000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 83250000,
+            "bill_code": "0104Q85",
+            "id_supplier": "sup001"
+        }
+    },
+    {
+        "id": "200010",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 5,
+            "payment": 53500000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 53500000,
+            "bill_code": "3103A85",
+            "id_supplier": "sup002"
+        }
+    },
+    {
+        "id": "200011",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 4,
+            "payment": 11850000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 11850000,
+            "bill_code": "3003P85",
+            "id_supplier": "sup002"
+        }
+    },
+    {
+        "id": "200012",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 3,
+            "payment": 0,
+            "payment_type": 2,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 87750000,
+            "bill_code": "2903S55",
+            "id_supplier": "sup001"
+        }
+    },
+    {
+        "id": "200013",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 2,
+            "payment": 14900000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 14900000,
+            "bill_code": "2803L57",
+            "id_supplier": "sup002"
+        }
+    },
+    {
+        "id": "200014",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 1,
+            "payment": 5900000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 5900000,
+            "bill_code": "2703M58",
+            "id_supplier": "sup002"
+        }
+    },
+    {
+        "id": "200015",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 14,
+            "payment": 5900000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 5900000,
+            "bill_code": "1003M58",
+            "id_supplier": "sup002"
+        }
+    },
+    {
+        "id": "200016",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 14,
+            "payment": 498200000,
+            "payment_type": 1,
+            "bill_type": 2,
+            "discount_value": 0,
+            "fee": 0,
+            "total": 498200000,
+            "bill_code": "2603P00",
+            "id_supplier": "sup001"
+        }
+    },
+    {
+        "id": "100001",
+        "data": {
+            "id_customer": "cus001",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 0,
+            "payment": 32390000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 32390000,
+            "fee": 0,
+            "bill_code": "0506B07"
+        }
+    },
+    {
+        "id": "100002",
+        "data": {
+            "id_customer": "cus002",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 0,
+            "payment": 0,
+            "payment_type": 2,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 31960000,
+            "fee": 0,
+            "bill_code": "0406U07"
+        }
+    },
+    {
+        "id": "100003",
+        "data": {
+            "id_customer": "cus003",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 0,
+            "payment": 29990000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 29990000,
+            "fee": 0,
+            "bill_code": "0406T08"
+        }
+    },
+    {
+        "id": "100004",
+        "data": {
+            "id_customer": "id_retail",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 0,
+            "payment": 9490000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 9490000,
+            "fee": 0,
+            "bill_code": "0408D08"
+        }
+    },
+    {
+        "id": "100005",
+        "data": {
+            "id_customer": "cus005",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 0,
+            "payment": 12190000,
+            "payment_type": 2,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 12190000,
+            "fee": 0,
+            "bill_code": "0408C08"
+        }
+    },
+    {
+        "id": "300001",
+        "data": {
+            "id_customer": "cus005",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 0,
+            "payment": 7990000,
+            "payment_type": 1,
+            "bill_type": 3,
+            "total": 7990000,
+            "fee": 0,
+            "bill_code": "0408K01"
+        }
+    },
+    {
+        "id": "100007",
+        "data": {
+            "id_customer": "cus006",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 1,
+            "payment": 38400000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 38400000,
+            "fee": 0,
+            "bill_code": "0408C98"
+        }
+    },
+    {
+        "id": "100008",
+        "data": {
+            "id_customer": "cus007",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 1,
+            "payment": 13980000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 13980000,
+            "fee": 0,
+            "bill_code": "2408C97"
+        }
+    },
+    {
+        "id": "100009",
+        "data": {
+            "id_customer": "cus008",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 2,
+            "payment": 1048000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 1048000,
+            "fee": 0,
+            "bill_code": "1006G97"
+        }
+    },
+    {
+        "id": "100010",
+        "data": {
+            "id_customer": "cus009",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 2,
+            "payment": 12290000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 12290000,
+            "fee": 0,
+            "bill_code": "2412C27"
+        }
+    },
+    {
+        "id": "100011",
+        "data": {
+            "id_customer": "cus010",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 3,
+            "payment": 12390000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 12390000,
+            "fee": 0,
+            "bill_code": "2408M7l"
+        }
+    },
+    {
+        "id": "100012",
+        "data": {
+            "id_customer": "cus001",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 3,
+            "payment": 18390000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 18390000,
+            "fee": 0,
+            "bill_code": "2408Z12",
+            "id_supplier": ""
+        }
+    },
+    {
+        "id": "100013",
+        "data": {
+            "id_customer": "cus005",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 4,
+            "payment": 2740000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 2740000,
+            "fee": 0,
+            "bill_code": "2308X97"
+        }
+    },
+    {
+        "id": "100014",
+        "data": {
+            "id_customer": "cus010",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 4,
+            "payment": 1420000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 1420000,
+            "fee": 0,
+            "bill_code": "2512V94"
+        }
+    },
+    {
+        "id": "100015",
+        "data": {
+            "id_customer": "cus008",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 5,
+            "payment": 11489000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 11489000,
+            "fee": 0,
+            "bill_code": "1508B15"
+        }
+    },
+    {
+        "id": "100016",
+        "data": {
+            "id_customer": "cus006",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 5,
+            "payment": 2740000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 2740000,
+            "fee": 0,
+            "bill_code": "2408M16"
+        }
+    },
+    {
+        "id": "400001",
+        "data": {
+            "id_customer": "cus006",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 5,
+            "payment": 2740000,
+            "payment_type": 1,
+            "bill_type": 4,
+            "total": 2740000,
+            "fee": 0,
+            "bill_code": "2408V16"
+        }
+    },
+    {
+        "id": "100017",
+        "data": {
+            "id_customer": "cus009",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 6,
+            "payment": 19190000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 19190000,
+            "fee": 0,
+            "bill_code": "325492T"
+        }
+    },
+    {
+        "id": "100018",
+        "data": {
+            "id_customer": "cus001",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 6,
+            "payment": 13180000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 13180000,
+            "fee": 0,
+            "bill_code": "ad94538"
+        }
+    },
+    {
+        "id": "100019",
+        "data": {
+            "id_customer": "cus003",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 6,
+            "payment": 42660000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 42660000,
+            "fee": 0,
+            "bill_code": "321584X"
+        }
+    },
+    {
+        "id": "100020",
+        "data": {
+            "id_customer": "cus010",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 6,
+            "payment": 55370000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 55370000,
+            "fee": 0,
+            "bill_code": "32456ES"
+        }
+    },
+    {
+        "id": "100021",
+        "data": {
+            "id_customer": "cus008",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 7,
+            "payment": 7990000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 7990000,
+            "fee": 0,
+            "bill_code": "102549A"
+        }
+    },
+    {
+        "id": "100022",
+        "data": {
+            "id_customer": "cus007",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 7,
+            "payment": 27980000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 27980000,
+            "fee": 0,
+            "bill_code": "369248C"
+        }
+    },
+    {
+        "id": "100023",
+        "data": {
+            "id_customer": "cus007",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 7,
+            "payment": 58160000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 58160000,
+            "fee": 0,
+            "bill_code": "962334G"
+        }
+    },
+    {
+        "id": "100024",
+        "data": {
+            "id_customer": "id_retail",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 7,
+            "payment": 710000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 710000,
+            "fee": 0,
+            "bill_code": "465216L"
+        }
+    },
+    {
+        "id": "100025",
+        "data": {
+            "id_customer": "id_retail",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 7,
+            "payment": 710000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 710000,
+            "fee": 0,
+            "bill_code": "365244V"
+        }
+    },
+    {
+        "id": "100026",
+        "data": {
+            "id_customer": "cus001",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 8,
+            "payment": 6230000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 6230000,
+            "fee": 0,
+            "bill_code": "326523J"
+        }
+    },
+    {
+        "id": "100027",
+        "data": {
+            "id_customer": "cus002",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 8,
+            "payment": 19260000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 19260000,
+            "fee": 0,
+            "bill_code": "632541M"
+        }
+    },
+    {
+        "id": "100028",
+        "data": {
+            "id_customer": "cus003",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 8,
+            "payment": 18390000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 18390000,
+            "fee": 0,
+            "bill_code": "6553325"
+        }
+    },
+    {
+        "id": "100029",
+        "data": {
+            "id_customer": "cus004",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 8,
+            "payment": 24680000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 24680000,
+            "fee": 0,
+            "bill_code": "655Y325"
+        }
+    },
+    {
+        "id": "100030",
+        "data": {
+            "id_customer": "cus005",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 9,
+            "payment": 35430000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 35430000,
+            "fee": 0,
+            "bill_code": "1003V325"
+        }
+    },
+    {
+        "id": "100031",
+        "data": {
+            "id_customer": "cus006",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 9,
+            "payment": 12190000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 12190000,
+            "fee": 0,
+            "bill_code": "63252X5"
+        }
+    },
+    {
+        "id": "100032",
+        "data": {
+            "id_customer": "cus007",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 9,
+            "payment": 24680000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 24680000,
+            "fee": 0,
+            "bill_code": "63258V5"
+        }
+    },
+    {
+        "id": "100033",
+        "data": {
+            "id_customer": "cus008",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 9,
+            "payment": 4200000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 4200000,
+            "fee": 0,
+            "bill_code": "62251C5"
+        }
+    },
+    {
+        "id": "100034",
+        "data": {
+            "id_customer": "cus009",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 9,
+            "payment": 24800000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 24800000,
+            "fee": 0,
+            "bill_code": "243568S"
+        }
+    },
+    {
+        "id": "100035",
+        "data": {
+            "id_customer": "cus010",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 9,
+            "payment": 28380000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 28380000,
+            "fee": 0,
+            "bill_code": "273561K"
+        }
+    },
+    {
+        "id": "100036",
+        "data": {
+            "id_customer": "cus001",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 10,
+            "payment": 15980000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 15980000,
+            "fee": 0,
+            "bill_code": "2785Q68"
+        }
+    },
+    {
+        "id": "100037",
+        "data": {
+            "id_customer": "cus002",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 10,
+            "payment": 20080000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 20080000,
+            "fee": 0,
+            "bill_code": "279569V"
+        }
+    },
+    {
+        "id": "100038",
+        "data": {
+            "id_customer": "cus003",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 10,
+            "payment": 12390000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 12390000,
+            "fee": 0,
+            "bill_code": "173511A"
+        }
+    },
+    {
+        "id": "100039",
+        "data": {
+            "id_customer": "cus004",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 10,
+            "payment": 30780000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 30780000,
+            "fee": 0,
+            "bill_code": "364254X"
+        }
+    },
+    {
+        "id": "100040",
+        "data": {
+            "id_customer": "cus005",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 10,
+            "payment": 710000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 710000,
+            "fee": 0,
+            "bill_code": "364200T"
+        }
+    },
+    {
+        "id": "100041",
+        "data": {
+            "id_customer": "cus006",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 10,
+            "payment": 8700000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 8700000,
+            "fee": 0,
+            "bill_code": "251200C"
+        }
+    },
+    {
+        "id": "100042",
+        "data": {
+            "id_customer": "cus007",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 11,
+            "payment": 13690000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 13690000,
+            "fee": 0,
+            "bill_code": "20104C5"
+        }
+    },
+    {
+        "id": "100043",
+        "data": {
+            "id_customer": "cus008",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 11,
+            "payment": 6190000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 6190000,
+            "fee": 0,
+            "bill_code": "3002F56"
+        }
+    },
+    {
+        "id": "100044",
+        "data": {
+            "id_customer": "cus009",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 11,
+            "payment": 17380000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 17380000,
+            "fee": 0,
+            "bill_code": "300909X"
+        }
+    },
+    {
+        "id": "100045",
+        "data": {
+            "id_customer": "cus010",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 11,
+            "payment": 6990000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 6990000,
+            "fee": 0,
+            "bill_code": "201010X"
+        }
+    },
+    {
+        "id": "100046",
+        "data": {
+            "id_customer": "id_retail",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 11,
+            "payment": 19260000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 19260000,
+            "fee": 0,
+            "bill_code": "211219S"
+        }
+    },
+    {
+        "id": "100047",
+        "data": {
+            "id_customer": "id_retail",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 11,
+            "payment": 45980000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 45980000,
+            "fee": 0,
+            "bill_code": "121212A"
+        }
+    },
+    {
+        "id": "100048",
+        "data": {
+            "id_customer": "id_retail",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 12,
+            "payment": 45980000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 45980000,
+            "fee": 0,
+            "bill_code": "010114A"
+        }
+    },
+    {
+        "id": "100049",
+        "data": {
+            "id_customer": "id_retail",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 12,
+            "payment": 6980000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 6980000,
+            "fee": 0,
+            "bill_code": "010605D"
+        }
+    },
+    {
+        "id": "100050",
+        "data": {
+            "id_customer": "cus001",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 12,
+            "payment": 24250000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 24250000,
+            "fee": 0,
+            "bill_code": "070891A"
+        }
+    },
+    {
+        "id": "100051",
+        "data": {
+            "id_customer": "cus002",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 12,
+            "payment": 2580000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 2580000,
+            "fee": 0,
+            "bill_code": "131287C"
+        }
+    },
+    {
+        "id": "100052",
+        "data": {
+            "id_customer": "cus003",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 12,
+            "payment": 7990000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 7990000,
+            "fee": 0,
+            "bill_code": "1210K32"
+        }
+    },
+    {
+        "id": "100053",
+        "data": {
+            "id_customer": "cus004",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 12,
+            "payment": 7990000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 7990000,
+            "fee": 0,
+            "bill_code": "121112Q"
+        }
+    },
+    {
+        "id": "100054",
+        "data": {
+            "id_customer": "cus005",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 12,
+            "payment": 1420000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 1420000,
+            "fee": 0,
+            "bill_code": "080894X"
+        }
+    },
+    {
+        "id": "100055",
+        "data": {
+            "id_customer": "cus006",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 13,
+            "payment": 7700000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 7700000,
+            "fee": 0,
+            "bill_code": "230789V"
+        }
+    },
+    {
+        "id": "100056",
+        "data": {
+            "id_customer": "cus007",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 13,
+            "payment": 46470000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 46470000,
+            "fee": 0,
+            "bill_code": "9121S44"
+        }
+    },
+    {
+        "id": "100057",
+        "data": {
+            "id_customer": "cus008",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 13,
+            "payment": 7990000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 7990000,
+            "fee": 0,
+            "bill_code": "9121C43"
+        }
+    },
+    {
+        "id": "100058",
+        "data": {
+            "id_customer": "cus009",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 13,
+            "payment": 25770000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 25770000,
+            "fee": 0,
+            "bill_code": "9128S43"
+        }
+    },
+    {
+        "id": "100059",
+        "data": {
+            "id_customer": "cus010",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 13,
+            "payment": 135290000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 135290000,
+            "fee": 0,
+            "bill_code": "326548P"
+        }
+    },
+    {
+        "id": "100060",
+        "data": {
+            "id_customer": "id_retail",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 13,
+            "payment": 12390000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 12390000,
+            "fee": 0,
+            "bill_code": "326588X"
+        }
+    },
+    {
+        "id": "100061",
+        "data": {
+            "id_customer": "cus001",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 13,
+            "payment": 12390000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 12390000,
+            "fee": 0,
+            "bill_code": "324588A"
+        }
+    },
+    {
+        "id": "100067",
+        "data": {
+            "id_customer": "cus001",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 13,
+            "payment": 12390000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 12390000,
+            "fee": 0,
+            "bill_code": "321588Q"
+        }
+    },
+    {
+        "id": "100062",
+        "data": {
+            "id_customer": "cus002",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 14,
+            "payment": 12290000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 12290000,
+            "fee": 0,
+            "bill_code": "324588L"
+        }
+    },
+    {
+        "id": "100063",
+        "data": {
+            "id_customer": "cus003",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 14,
+            "payment": 26180000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 26180000,
+            "fee": 0,
+            "bill_code": "123412Y"
+        }
+    },
+    {
+        "id": "100064",
+        "data": {
+            "id_customer": "cus004",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 14,
+            "payment": 45470000,
+            "payment_type": 1,
+            "bill_type": 1,
+            "discount_value": 0,
+            "total": 45470000,
+            "fee": 0,
+            "bill_code": "123512P"
+        }
+    },
+    {
+        "id": "300065",
+        "data": {
+            "id_customer": "cus004",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 14,
+            "payment": 6990000,
+            "payment_type": 1,
+            "bill_type": 3,
+            "total": 6990000,
+            "fee": 0,
+            "bill_code": "123513Q"
+        }
+    },
+    {
+        "id": "300066",
+        "data": {
+            "id_customer": "cus003",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 14,
+            "payment": 19990000,
+            "payment_type": 1,
+            "bill_type": 3,
+            "total": 19990000,
+            "fee": 0,
+            "bill_code": "HYT021"
+        }
+    },
+    {
+        "id": "010001",
+        "data": {
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 10,
+            "payment": 32670000,
+            "payment_type": 1,
+            "bill_type": 10,
+            "total": 24670000,
+            "fee": 0,
+            "bill_code": "KBC54",
+            "id_supplier": "sup101"
+        }
+    },
+    {
+        "id": "500068",
+        "data": {
+            "id_customer": "cus003",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 0,
+            "payment": 19990000,
+            "payment_type": 1,
+            "bill_type": 5,
+            "total": 19990000,
+            "fee": 0,
+            "bill_code": "010294W",
+            "id_supplier": ""
+        }
+    },
+    {
+        "id": "400069",
+        "data": {
+            "id_customer": "cus003",
+            "id_employee": "",
+            "id_cashier": "",
+            "tax": 0,
+            "date": 0,
+            "payment": 19990000,
+            "payment_type": 1,
+            "bill_type": 4,
+            "total": 19990000,
+            "fee": 0,
+            "bill_code": "211293W",
+            "id_supplier": ""
+        }
+    },
+    {
+        "id": "700001",
+        "data": {
+            "date": 2,
+            "bill_type": 7,
+            "total": 200000,
+            "content": "Bán giấy, vật tư cũ",
+            "bill_code": "ABC1304"
+        }
+    },
+    {
+        "id": "800001",
+        "data": {
+            "date": 2,
+            "bill_type": 8,
+            "total": 600000,
+            "content": "Tiền điện tháng này",
+            "bill_code": "RTD1304"
+        }
+    },
+    {
+        "id": "110001",
+        "data": {
+            "date": 0,
+            "tax": 0,
+            "id_customer": "cus002",
+            "bill_type": 11,
+            "total": 2000000,
+            "payment": 2000000,
+            "content": "Công nợ KH Nguyễn Thảo Anh",
+            "id_employee": "",
+            "id_cashier": "",
+            "bill_code": "RTDV304"
+        }
+    },
+    {
+        "id": "120001",
+        "data": {
+            "date": 3,
+            "tax": 0,
+            "id_supplier": "sup001",
+            "bill_type": 12,
+            "total": 1000000,
+            "payment": 1000000,
+            "content": "Công nợ NCC Synnex FPT",
+            "id_employee": "",
+            "bill_code": "NABA304",
+            "id_cashier": ""
+        }
+    }
+]
