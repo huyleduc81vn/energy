@@ -645,7 +645,7 @@ if (false) {}
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\r\n    <ion-toolbar color=\"primary\">\r\n      <ion-title>Test Board IOT Tool</ion-title>\r\n      <ion-buttons slot=\"start\">\r\n        <ion-back-button></ion-back-button>\r\n      </ion-buttons>\r\n      <ion-buttons slot=\"end\" (click)=\"clickButton()\">\r\n          <ion-icon class=\"size-icon-header\" color=\"default_black\" src=\"./assets/icon/notifications.svg\"></ion-icon>\r\n      </ion-buttons>\r\n    </ion-toolbar>\r\n    <ion-toobar>\r\n      <ion-item>         \r\n        <ion-input value = \"iot_id\" [(ngModel)] = \"iot_id\"  type=\"text \" placeholder=\"iotID... \"></ion-input>        \r\n        <button (click)=\"connectDevice()\">{{connect?\"Disconnect\":\"Connect\"}}</button>     \r\n    </ion-item>\r\n    </ion-toobar>\r\n  </ion-header> \r\n  \r\n  <ion-content class=\"ion-padding\" id=\"content\">\r\n    <ion-item *ngFor=\"let message of list_messages\" class=\"message\">       \r\n      <ion-grid>\r\n        <ion-row>\r\n          <ion-col class=\"username\">\r\n            {{ message.topic }}\r\n          </ion-col>\r\n          <ion-col class=\"messageContent\">\r\n            {{ message.value }}\r\n          </ion-col>\r\n          <ion-col class=\"messageDate\">\r\n            {{ message.date | date : \"hh:mm:ss\" }}\r\n          </ion-col>         \r\n        </ion-row>\r\n      </ion-grid>\r\n      <!-- <div class=\"username\">{{ message.topic }}</div>\r\n      <div class=\"messageContent\">{{ message.value }}</div>           \r\n      <div class=\"messageDate \">{{ message.date | date : \"hh:mm:ss\" }}</div>        -->\r\n    </ion-item>\r\n  </ion-content>\r\n  \r\n  <ion-footer>\r\n    <ion-toolbar>              \r\n          <ion-item>          \r\n              <ion-input value = \"iot_topic_string\" [(ngModel)] = \"iot_topic_string\"  type=\"text \" placeholder=\"topic... \"></ion-input>  \r\n              <ion-input value = \"iot_message_string\" [(ngModel)] = \"iot_message_string\" type=\"text \" placeholder=\"message string... \"></ion-input>\r\n              <ion-icon (click)=\"sendMessage_STRING() \" color=\"default_green \" src=\"./assets/icon/send.svg \"></ion-icon>       \r\n          </ion-item>  \r\n          <ion-item> \r\n            <ion-input value = \"iot_topic_json\" [(ngModel)] = \"iot_topic_json\"  type=\"text \" placeholder=\"topic... \"></ion-input>  \r\n            <ion-input value = \"iot_message_json\" [(ngModel)] = \"iot_message_json\" type=\"text \" placeholder=\"message json... \"></ion-input>\r\n            <ion-icon (click)=\"sendMessage_JSON() \" color=\"default_green \" src=\"./assets/icon/send.svg \"></ion-icon>\r\n          </ion-item>  \r\n           \r\n           \r\n        \r\n    </ion-toolbar>\r\n  </ion-footer>");
+/* harmony default export */ __webpack_exports__["default"] = ("<ion-header>\r\n    <ion-toolbar color=\"primary\">\r\n      <ion-title>Test Board IOT Tool</ion-title>\r\n      <ion-buttons slot=\"start\">\r\n        <ion-back-button></ion-back-button>\r\n      </ion-buttons>\r\n      <ion-buttons slot=\"end\" (click)=\"clickButton()\">\r\n          <ion-icon class=\"size-icon-header\" color=\"default_black\" src=\"./assets/icon/notifications.svg\"></ion-icon>\r\n      </ion-buttons>\r\n    </ion-toolbar>\r\n    <ion-toobar>\r\n      <ion-item>         \r\n        <ion-input value = \"iot_id\" [(ngModel)] = \"iot_id\"  type=\"text \" placeholder=\"iotID... \"></ion-input>        \r\n        <button (click)=\"connectDevice()\">{{connect?\"Disconnect\":\"Connect\"}}</button>     \r\n    </ion-item>\r\n    </ion-toobar>\r\n  </ion-header> \r\n  \r\n  <ion-content class=\"ion-padding\" id=\"content\">\r\n    <ion-item *ngFor=\"let message of list_messages\" class=\"message\">       \r\n      <ion-grid>\r\n        <ion-row>\r\n          <ion-col class=\"username\">\r\n            {{ message.topic }}\r\n          </ion-col>\r\n          <ion-col class=\"messageContent\">\r\n            {{ message.value }}\r\n          </ion-col>\r\n          <ion-col class=\"messageDate\">\r\n            {{ message.date | date : \"hh:mm:ss\" }}\r\n          </ion-col>         \r\n        </ion-row>\r\n      </ion-grid>\r\n      <!-- <div class=\"username\">{{ message.topic }}</div>\r\n      <div class=\"messageContent\">{{ message.value }}</div>           \r\n      <div class=\"messageDate \">{{ message.date | date : \"hh:mm:ss\" }}</div>        -->\r\n    </ion-item>\r\n  </ion-content>\r\n  \r\n  <ion-footer>\r\n    <ion-toolbar>              \r\n          <ion-item>          \r\n              <ion-input value = \"iot_topic_string\" [(ngModel)] = \"iot_topic_string\"  type=\"text\" placeholder=\"topic... \"></ion-input>  \r\n              <ion-input value = \"iot_message_string\" [(ngModel)] = \"iot_message_string\" type=\"text\" placeholder=\"message string... \"></ion-input>\r\n              <ion-input value = \"iot_duration_string\" [(ngModel)] = \"iot_duration_string\" type=\"number\" placeholder=\"duration time (s)... \"></ion-input>\r\n              <ion-icon (click)=\"sendMessage_STRING() \" color=\"{{connect_string?'default_gray':'default_green'}}\" src=\"./assets/icon/send.svg \"></ion-icon>       \r\n          </ion-item>  \r\n          <ion-item> \r\n            <ion-input value = \"iot_topic_json\" [(ngModel)] = \"iot_topic_json\"  type=\"text\" placeholder=\"topic... \"></ion-input>  \r\n            <ion-input value = \"iot_message_json\" [(ngModel)] = \"iot_message_json\" type=\"text\" placeholder=\"message json... \"></ion-input>\r\n            <ion-input value = \"iot_duration_json\" [(ngModel)] = \"iot_duration_json\" type=\"number\" placeholder=\"duration time (s)... \"></ion-input>\r\n            <ion-icon (click)=\"sendMessage_JSON() \" color=\"{{connect_json?'default_gray':'default_green'}}\" src=\"./assets/icon/send.svg \"></ion-icon>\r\n          </ion-item>  \r\n           \r\n           \r\n        \r\n    </ion-toolbar>\r\n  </ion-footer>");
 
 /***/ }),
 
@@ -819,11 +819,15 @@ let OverviewsPage = class OverviewsPage {
         this.queryVhenergy = queryVhenergy;
         this.ordinaryComponent = ordinaryComponent;
         this.connect = false;
+        this.connect_string = false;
+        this.connect_json = false;
         this.iot_id = "";
         this.iot_topic_string = "";
         this.iot_topic_json = "";
         this.iot_message_string = "";
         this.iot_message_json = "";
+        this.iot_duration_string = 0;
+        this.iot_duration_json = 0;
     }
     ngOnInit() { }
     clickButton() {
@@ -853,26 +857,81 @@ let OverviewsPage = class OverviewsPage {
     sendMessage() {
     }
     sendMessage_STRING() {
-        if (this.iot_id != "" && this.iot_topic_string != "" && this.iot_message_string != "") {
-            this.queryVhenergy.publish(this.iot_id, this.iot_topic_string, "string", this.iot_message_string)
-                .then((result) => {
-                console.log(result);
-            });
+        if (this.iot_duration_string == 0) {
+            if (this.iot_id != "" && this.iot_topic_string != "" && this.iot_message_string != "" && this.connect == true) {
+                this.queryVhenergy.publish(this.iot_id, this.iot_topic_string, "string", this.iot_message_string)
+                    .then((result) => {
+                    console.log(result);
+                });
+            }
+            else {
+                this.ordinaryComponent.showToast(1000, "Vui lòng nhập đủ, đúng tham số vào");
+            }
         }
         else {
-            this.ordinaryComponent.showToast(1000, "Vui lòng nhập đủ, đúng tham số vào");
+            if (typeof this.iot_duration_string == 'number') {
+                if (!this.connect_string) {
+                    if (this.iot_id != "" && this.iot_topic_string != "" && this.iot_message_string != "" && this.connect == true) {
+                        this.connect_string = !this.connect_string;
+                        this.setinterval_string = setInterval(() => {
+                            console.log('hello string');
+                            this.queryVhenergy.publish(this.iot_id, this.iot_topic_string, "string", this.iot_message_string)
+                                .then((result) => {
+                                console.log(result);
+                            });
+                        }, 1000 * this.iot_duration_string);
+                    }
+                    else {
+                        this.ordinaryComponent.showToast(1000, "Vui lòng nhập đủ, đúng tham số vào kiểu STRING");
+                    }
+                }
+                else {
+                    clearInterval(this.setinterval_string);
+                    this.connect_string = !this.connect_string;
+                }
+            }
+            else {
+                this.ordinaryComponent.showToast(1000, "Thời gian, sai định dạng");
+            }
         }
     }
     sendMessage_JSON() {
-        if (this.iot_id != "" && this.iot_topic_json != "" && this.iot_message_json != "") {
-            //let str = '{ "name":"John", "age":30, "city":"New York"}';    
-            this.queryVhenergy.publish(this.iot_id, this.iot_topic_json, "json", this.iot_message_json)
-                .then((result) => {
-                console.log(result);
-            });
+        if (this.iot_duration_json == 0) {
+            if (this.iot_id != "" && this.iot_topic_json != "" && this.iot_message_json != "" && this.connect == true) {
+                this.queryVhenergy.publish(this.iot_id, this.iot_topic_json, "json", this.iot_message_json)
+                    .then((result) => {
+                    console.log(result);
+                });
+            }
+            else {
+                this.ordinaryComponent.showToast(1000, "Vui lòng nhập đủ, đúng tham số vào");
+            }
         }
         else {
-            this.ordinaryComponent.showToast(1000, "Vui lòng nhập đủ, đúng tham số vào");
+            if (typeof this.iot_duration_json == 'number') {
+                if (!this.connect_json) {
+                    if (this.iot_id != "" && this.iot_topic_json != "" && this.iot_message_json != "" && this.connect == true) {
+                        this.connect_json = !this.connect_json;
+                        this.setinterval_json = setInterval(() => {
+                            console.log('hello json');
+                            this.queryVhenergy.publish(this.iot_id, this.iot_topic_json, "json", this.iot_message_json)
+                                .then((result) => {
+                                console.log(result);
+                            });
+                        }, 1000 * this.iot_duration_json);
+                    }
+                    else {
+                        this.ordinaryComponent.showToast(1000, "Vui lòng nhập đủ, đúng tham số vào kiểu JSON");
+                    }
+                }
+                else {
+                    clearInterval(this.setinterval_json);
+                    this.connect_json = !this.connect_json;
+                }
+            }
+            else {
+                this.ordinaryComponent.showToast(1000, "Thời gian, sai định dạng");
+            }
         }
     }
 };
