@@ -1,0 +1,17 @@
+[{
+        "id": "tax001",
+        "data": {
+            "name": "VAT",
+            "value": 10,
+            "status": true
+        }
+    },
+    {
+        "id": "tax002",
+        "data": {
+            "name": "TNCN",
+            "value": 5,
+            "status": false
+        }
+    }
+]

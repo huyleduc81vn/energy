@@ -1,0 +1,324 @@
+[{
+        "id": "pro001",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/tv1.jpg",
+            "barcode": "01232567891",
+            "name": "LG SMART TV 4K 55'",
+            "price": 19990000,
+            "price_import": 10000000,
+            "id_category": "cat001",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 10,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro002",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/tv2.jpg",
+            "barcode": "8955567892",
+            "name": "SONY ANDROID TV 4K 45'",
+            "price": 12400000,
+            "price_import": 6200000,
+            "id_category": "cat001",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro003",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/tv3.jpg",
+            "barcode": "01234567893",
+            "name": "SAMSUM SMART TV 4K 55'",
+            "price": 19580000,
+            "price_import": 13500000,
+            "id_category": "cat001",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 20,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro004",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/tl1.jpg",
+            "barcode": "566234567893",
+            "name": "TOSHIBA INVERTER 233 LÍT",
+            "price": 6190000,
+            "price_import": 3150000,
+            "id_category": "cat002",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 16,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro005",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/tl2.jpg",
+            "barcode": "01277767893",
+            "name": "SHARP INVERTER 182 LÍT",
+            "price": 5031000,
+            "price_import": 200000,
+            "id_category": "cat002",
+            "id_supplier": "sup001",
+            "allow_sell": false,
+            "warning_number": 10,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro006",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/tl3.jpg",
+            "barcode": "555234567892",
+            "name": "PANASONIC INVERTER 255 LÍT",
+            "price": 10990000,
+            "price_import": 5050000,
+            "id_category": "cat002",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro007",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/mg1.jpg",
+            "barcode": "01234567892",
+            "name": "LG INVERTER 8 KG",
+            "price": 9490000,
+            "price_import": 4050000,
+            "id_category": "cat003",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro008",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/mg2.jpg",
+            "barcode": "01234567892",
+            "name": "Electrolux INVERTER 8 KG",
+            "price": 4200000,
+            "price_import": 2050000,
+            "id_category": "cat003",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro009",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/dt1.jpg",
+            "barcode": "08884567892",
+            "name": "SAMSUM GALAXY A 51",
+            "price": 7990000,
+            "price_import": 3900000,
+            "id_category": "cat004",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro010",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/dt2.jpg",
+            "barcode": "07774567892",
+            "name": "IPHONE 11 PRO",
+            "price": 34990000,
+            "price_import": 26000000,
+            "id_category": "cat004",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro011",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/dt3.jpg",
+            "barcode": "08884567892",
+            "name": "VSMART ACTIVE 3 (4G/6G)",
+            "price": 3490000,
+            "price_import": 1890000,
+            "id_category": "cat004",
+            "id_supplier": "sup003",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro012",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/ml1.jpg",
+            "barcode": "08884567892",
+            "name": "TCL INVERTER 1HP",
+            "price": 6990000,
+            "price_import": 3490000,
+            "id_category": "cat005",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro013",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/ml2.jpg",
+            "barcode": "78884567892",
+            "name": "DAKIN INVERTER 1HP",
+            "price": 10990000,
+            "price_import": 6490000,
+            "id_category": "cat005",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro014",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/lt1.jpg",
+            "barcode": "dd84567892",
+            "name": "HP 15s du0072tx i3-7020u",
+            "price": 12290000,
+            "price_import": 6490000,
+            "id_category": "cat006",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro015",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/lt2.jpg",
+            "barcode": "dd84567892",
+            "name": "Asus Vivobook i3-8145u",
+            "price": 12390000,
+            "price_import": 6890000,
+            "id_category": "cat006",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro016",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/lt3.jpg",
+            "barcode": "dd84567892",
+            "name": "Lenovo Ideapad s145 i7-8565u",
+            "price": 18390000,
+            "price_import": 10890000,
+            "id_category": "cat006",
+            "id_supplier": "sup001",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro017",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/mq1.jpg",
+            "barcode": "dd84dđ567892",
+            "name": "Quạt đứng Midea FS480-18C",
+            "price": 870000,
+            "price_import": 390000,
+            "id_category": "cat007",
+            "id_supplier": "sup002",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro018",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/lvx1.jpg",
+            "barcode": "788400567892",
+            "name": "Lò vi sóng TOSHIBA SM20 20 LÍT",
+            "price": 1870000,
+            "price_import": 790000,
+            "id_category": "cat007",
+            "id_supplier": "sup002",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    },
+    {
+        "id": "pro019",
+        "data": {
+            "quantity": 0,
+            "img": "assets/data/img/st1.jpg",
+            "barcode": "88822567892",
+            "name": "SHD 5532 SUNHOUSE",
+            "price": 710000,
+            "price_import": 280000,
+            "id_category": "cat007",
+            "id_supplier": "sup002",
+            "allow_sell": true,
+            "warning_number": 15,
+            "unit": "chiếc",
+            "brand": ""
+        }
+    }
+]
